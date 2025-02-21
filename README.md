@@ -33,7 +33,3 @@
 <h3 align="left">🏆GitHub Trophies:</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsnelitha" alt="itsnelitha" /></a> </p>
-
-<h3 align="left">GitHub Stats:</h3>
-
-![Metrics](https://metrics.lecoq.io/itsnelitha?template=classic&isocalendar=1&languages=1&followup=1&people=1&achievements=1&activity=1&introduction=1&tweets=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=
