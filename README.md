@@ -1,7 +1,7 @@
 # Hey, I’m Nelitha 👋  
 aka **@itsnelitha**
 
-## 👨‍💻 Who am I?
+## Who am I?
 
 I’m a tech-focused student who loves building cool things on the internet.  
 I’m into **web development, AI, cinematography, and digital media**.
@@ -10,7 +10,7 @@ I believe in learning by doing, shipping real projects, and playing the long gam
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsnelitha&theme=dark&include_all_commits=true&count_private=true)
 
@@ -20,21 +20,13 @@ I believe in learning by doing, shipping real projects, and playing the long gam
 
 ---
 
-## 🔥 GitHub Streaks & Contributions
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=itsnelitha&theme=dark&hide_border=true" />
+## GitHub Streaks & Contributions
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsnelitha&theme=github_dark" />
 
 ---
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsnelitha&theme=dark&margin-w=8)
-
----
-
-## 🧠 What I Do
+## What I Do
 
 - 💻 Web Development (Frontend & Backend)
 - 🎬 Video Editing & Cinematography
@@ -44,7 +36,7 @@ I believe in learning by doing, shipping real projects, and playing the long gam
 
 ---
 
-## 🌍 Find Me Online
+## Find Me Online
 
 - GitHub → https://github.com/itsnelitha  
 - LinkedIn → https://linkedin.com/in/itsnelitha  
@@ -54,7 +46,7 @@ I believe in learning by doing, shipping real projects, and playing the long gam
 
 ---
 
-## 🚀 Mindset
+## Mindset
 
 > Stay curious.  
 > Build skills.  
