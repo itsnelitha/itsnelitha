@@ -12,9 +12,11 @@ I believe in learning by doing, shipping real projects, and playing the long gam
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsnelitha&show_icons=true&include_all_commits=true&theme=dracula" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsnelitha&theme=dark&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnelitha&layout=compact&theme=dracula" />
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=itsnelitha&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsnelitha&theme=dark&layout=compact)
 
 ---
 
@@ -28,7 +30,7 @@ I believe in learning by doing, shipping real projects, and playing the long gam
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=itsnelitha&theme=darkhub&no-frame=true&row=1&column=7" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsnelitha&theme=dark&margin-w=8)
 
 ---
 
