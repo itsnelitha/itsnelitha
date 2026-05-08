@@ -9,7 +9,7 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-itsnelitha.vercel.app-4D9FFF?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117)](https://itsnelitha.vercel.app)
-[![Email](https://img.shields.io/badge/Email-itsnelitha%40gmail.com-4D9FFF?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:itsnelitha@gmail.com)
+[![Email](https://img.shields.io/badge/Email-itsnelitha%40gmail.com-4D9FFF?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:nelitha@frametoque.online)
 [![Frametoque](https://img.shields.io/badge/Studio-frametoque.online-4D9FFF?style=flat-square&logoColor=white&labelColor=0d1117)](https://frametoque.online)
 [![Freelance](https://img.shields.io/badge/Status-Available%20for%20hire-2ea44f?style=flat-square&labelColor=0d1117)](mailto:itsnelitha@gmail.com)
 
@@ -25,7 +25,6 @@ const nelitha: Developer = {
   role     : ["Full-Stack Developer", "Filmmaker", "Content Creator"],
   focus    : ["Web Applications", "UI/UX", "Computer Vision"],
   stack    : ["Next.js", "TypeScript", "React", "Tailwind CSS"],
-  award    : "Silver Award · BestWeb.LK 2024 🏆",
   freelance: true,
 };
 ```
@@ -109,6 +108,16 @@ const nelitha: Developer = {
 ---
 
 <div align="center">
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-itsnelitha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/itsnelitha)
+[![Instagram](https://img.shields.io/badge/Instagram-itsnelitha-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/itsnelitha)
+[![Facebook](https://img.shields.io/badge/Facebook-itsnelitha-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117)](https://facebook.com/itsnelitha)
+[![Telegram](https://img.shields.io/badge/Telegram-itsnelitha-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/itsnelitha)
+[![Email](https://img.shields.io/badge/Email-itsnelitha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:nelitha@frametoque.online)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=itsnelitha&color=4D9FFF&style=flat-square&label=Profile+Views)
 &nbsp;&nbsp;
