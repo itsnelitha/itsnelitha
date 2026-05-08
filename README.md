@@ -59,18 +59,6 @@ const nelitha: Developer = {
 
 <br/>
 
-## Featured Projects
-
-| &nbsp; | Project | Description | Stack |
-|:---:|---|---|---|
-| 🎬 | **[Frametoque](https://frametoque.online)** | Digital media company — photography & videography studio | `Next.js` `Clerk` `Tailwind v4` |
-| ✈️ | **Aventra Travel** | Sri Lanka tourism platform with vehicle & tour booking | `Next.js` `TypeScript` `Tailwind` |
-| 🤖 | **Frametoque AI** | Computer vision tool scoring cinematic shots across 7 metrics | `Python` `Computer Vision` |
-| 📐 | **Maths with Janidu** | Interactive mathematics education platform | `Next.js` `CMS` `Animations` |
-| 🏆 | **[Prince of Wales College](https://itsnelitha.github.io)** | Award-winning institutional website — Silver · BestWeb.LK 2024 | `HTML` `CSS` `JS` |
-
-<br/>
-
 ## GitHub Stats
 
 <div align="center">
