@@ -21,7 +21,7 @@
 
 ```typescript
 const nelitha: Developer = {
-  location : "Kandy, Sri Lanka 🇱🇰",
+  location : "Panadura, Sri Lanka 🇱🇰",
   role     : ["Full-Stack Developer", "Filmmaker", "Content Creator"],
   focus    : ["Web Applications", "UI/UX", "Computer Vision"],
   stack    : ["Next.js", "TypeScript", "React", "Tailwind CSS"],
