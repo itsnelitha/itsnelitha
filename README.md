@@ -1,51 +1,131 @@
-# Hey, I’m Nelitha 👋  
-aka **@itsnelitha**
+<div align="center">
 
-## Who am I?
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:0d1117&height=180&section=header&text=Nelitha%20Priyawansha&fontSize=42&fontColor=e6edf3&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Filmmaker%20%C2%B7%20Creator&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
-I’m a tech-obsessed student who loves building things on the internet.  
-I’m into **web development, AI, cinematography, and digital media**.  
-I enjoy learning new tech, sharing knowledge, and shipping real projects.
+<a href="https://itsnelitha.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=4D9FFF&center=true&vCenter=true&width=560&lines=Building+products+people+love.;Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;Open+to+freelance+opportunities." alt="Typing SVG" />
+</a>
 
-## GitHub Stats
+<br/><br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsnelitha&theme=dark&include_all_commits=true&count_private=true)
+[![Portfolio](https://img.shields.io/badge/Portfolio-itsnelitha.vercel.app-4D9FFF?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117)](https://itsnelitha.vercel.app)
+[![Email](https://img.shields.io/badge/Email-itsnelitha%40gmail.com-4D9FFF?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:itsnelitha@gmail.com)
+[![Frametoque](https://img.shields.io/badge/Studio-frametoque.online-4D9FFF?style=flat-square&logoColor=white&labelColor=0d1117)](https://frametoque.online)
+[![Freelance](https://img.shields.io/badge/Status-Available%20for%20hire-2ea44f?style=flat-square&labelColor=0d1117)](mailto:itsnelitha@gmail.com)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=itsnelitha&theme=dark)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsnelitha&theme=dark&layout=compact)
+<br/>
 
-## GitHub Streaks & Contributions
+## About
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsnelitha&theme=github_dark" />
+```typescript
+const nelitha: Developer = {
+  location : "Kandy, Sri Lanka 🇱🇰",
+  role     : ["Full-Stack Developer", "Filmmaker", "Content Creator"],
+  focus    : ["Web Applications", "UI/UX", "Computer Vision"],
+  stack    : ["Next.js", "TypeScript", "React", "Tailwind CSS"],
+  award    : "Silver Award · BestWeb.LK 2024 🏆",
+  freelance: true,
+};
+```
 
-## What I Do
+<br/>
 
-- Web Development (Frontend + Backend)
-- Video Editing & Cinematography
-- Exploring AI & Data-driven tech
-- Design, branding & digital content
-- Always learning, always building
+## Tech Stack
+
+**Frontend**
+&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=4D9FFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=4D9FFF)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=4D9FFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=4D9FFF)
+![Framer Motion](https://img.shields.io/badge/Framer-0d1117?style=flat-square&logo=framer&logoColor=4D9FFF)
+
+**Backend & Infra**
+&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=4D9FFF)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=4D9FFF)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=4D9FFF)
+![GitHub Actions](https://img.shields.io/badge/Actions-0d1117?style=flat-square&logo=github-actions&logoColor=4D9FFF)
+![Clerk](https://img.shields.io/badge/Clerk-0d1117?style=flat-square&logo=clerk&logoColor=4D9FFF)
+
+**Tools & Creative**
+&nbsp;
+![WordPress](https://img.shields.io/badge/WordPress-0d1117?style=flat-square&logo=wordpress&logoColor=4D9FFF)
+![Adobe Premiere](https://img.shields.io/badge/Premiere_Pro-0d1117?style=flat-square&logo=adobe-premiere-pro&logoColor=4D9FFF)
+![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=flat-square&logo=adobe-photoshop&logoColor=4D9FFF)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=4D9FFF)
+
+<br/>
 
 ## Featured Projects
 
-Some of my work lives here on GitHub — real projects, experiments, and ideas in progress.  
-More coming soon 👀
+| &nbsp; | Project | Description | Stack |
+|:---:|---|---|---|
+| 🎬 | **[Frametoque](https://frametoque.online)** | Digital media company — photography & videography studio | `Next.js` `Clerk` `Tailwind v4` |
+| ✈️ | **Aventra Travel** | Sri Lanka tourism platform with vehicle & tour booking | `Next.js` `TypeScript` `Tailwind` |
+| 🤖 | **Frametoque AI** | Computer vision tool scoring cinematic shots across 7 metrics | `Python` `Computer Vision` |
+| 📐 | **Maths with Janidu** | Interactive mathematics education platform | `Next.js` `CMS` `Animations` |
+| 🏆 | **[Prince of Wales College](https://itsnelitha.github.io)** | Award-winning institutional website — Silver · BestWeb.LK 2024 | `HTML` `CSS` `JS` |
 
-## Find Me Online
+<br/>
 
-- GitHub: https://github.com/itsnelitha  
-- LinkedIn: https://linkedin.com/in/itsnelitha  
-- X (Twitter): https://x.com/itsnelitha  
-- Instagram: https://instagram.com/itsnelitha  
-- YouTube: https://youtube.com/@itsnelitha  
+## GitHub Stats
 
-## Mindset
+<div align="center">
 
-> Build skills.  
-> Create value.  
-> Stay curious.  
-> Play the long game.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsnelitha&show_icons=true&theme=github_dark&title_color=4D9FFF&text_color=c9d1d9&icon_color=4D9FFF&border_color=21262d&ring_color=4D9FFF&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnelitha&layout=compact&theme=github_dark&title_color=4D9FFF&text_color=c9d1d9&border_color=21262d&bg_color=0d1117&langs_count=7&hide_border=false" />
 
-Thanks for stopping by 🤍  
-Let’s build something cool.
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=itsnelitha&theme=github-dark-blue&background=0d1117&border=21262d&ring=4D9FFF&fire=4D9FFF&currStreakLabel=4D9FFF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&hide_border=false)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+## Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=itsnelitha&theme=algolia&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+## Activity
+
+<div align="center">
+
+[![Nelitha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsnelitha&bg_color=0d1117&color=4D9FFF&line=1a3a6b&point=4D9FFF&area=true&area_color=1a2744&hide_border=false&border_color=21262d&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsnelitha/itsnelitha/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsnelitha/itsnelitha/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/itsnelitha/itsnelitha/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=itsnelitha&color=4D9FFF&style=flat-square&label=Profile+Views)
+&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/itsnelitha?label=Followers&style=flat-square&color=4D9FFF&labelColor=0d1117)](https://github.com/itsnelitha?tab=followers)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:0d1117&height=80&section=footer" width="100%"/>
+
+</div>
